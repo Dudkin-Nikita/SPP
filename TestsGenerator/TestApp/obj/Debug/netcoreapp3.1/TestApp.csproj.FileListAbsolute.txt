@@ -1,0 +1,160 @@
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\TestApp.exe
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\obj\Debug\netcoreapp3.1\TestApp.csprojAssemblyReference.cache
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfoInputs.cache
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfo.cs
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\TestApp.deps.json
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.json
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.dev.json
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\TestApp.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\TestApp.pdb
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\System.Threading.Tasks.Dataflow.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\TestsGeneratorLib.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\TestsGeneratorLib.pdb
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CoreCompileInputs.cache
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CopyComplete
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\obj\Debug\netcoreapp3.1\TestApp.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\obj\Debug\netcoreapp3.1\TestApp.pdb
+D:\bsuir\5sem\spp\TestsGenerator\TestApp\obj\Debug\netcoreapp3.1\TestApp.genruntimeconfig.cache
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\System.Threading.Tasks.Dataflow.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\TestsGeneratorLib.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\TestsGeneratorLib.pdb
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\obj\Debug\netcoreapp3.1\TestApp.csprojAssemblyReference.cache
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfoInputs.cache
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfo.cs
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CoreCompileInputs.cache
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\obj\Debug\netcoreapp3.1\TestApp.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\obj\Debug\netcoreapp3.1\TestApp.pdb
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\TestApp.exe
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\TestApp.deps.json
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.json
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.dev.json
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\TestApp.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\TestApp.pdb
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CopyComplete
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\obj\Debug\netcoreapp3.1\TestApp.genruntimeconfig.cache
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\obj\Debug\netcoreapp3.1\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll

@@ -1,0 +1,19 @@
+D:\bsuir\5sem\spp\TestsGenerator\TestsGeneratorLib\bin\Debug\netcoreapp3.1\TestsGeneratorLib.deps.json
+D:\bsuir\5sem\spp\TestsGenerator\TestsGeneratorLib\bin\Debug\netcoreapp3.1\TestsGeneratorLib.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestsGeneratorLib\obj\Debug\netcoreapp3.1\TestsGeneratorLib.AssemblyInfoInputs.cache
+D:\bsuir\5sem\spp\TestsGenerator\TestsGeneratorLib\obj\Debug\netcoreapp3.1\TestsGeneratorLib.AssemblyInfo.cs
+D:\bsuir\5sem\spp\TestsGenerator\TestsGeneratorLib\bin\Debug\netcoreapp3.1\TestsGeneratorLib.pdb
+D:\bsuir\5sem\spp\TestsGenerator\TestsGeneratorLib\obj\Debug\netcoreapp3.1\TestsGeneratorLib.csprojAssemblyReference.cache
+D:\bsuir\5sem\spp\TestsGenerator\TestsGeneratorLib\obj\Debug\netcoreapp3.1\TestsGeneratorLib.csproj.CoreCompileInputs.cache
+D:\bsuir\5sem\spp\TestsGenerator\TestsGeneratorLib\obj\Debug\netcoreapp3.1\TestsGeneratorLib.dll
+D:\bsuir\5sem\spp\TestsGenerator\TestsGeneratorLib\obj\Debug\netcoreapp3.1\TestsGeneratorLib.pdb
+E:\5 sem\SPP4.1\TestsGenerator\TestsGeneratorLib\obj\Debug\netcoreapp3.1\TestsGeneratorLib.AssemblyInfoInputs.cache
+E:\5 sem\SPP4.1\TestsGenerator\TestsGeneratorLib\obj\Debug\netcoreapp3.1\TestsGeneratorLib.AssemblyInfo.cs
+E:\5 sem\SPP4.1\TestsGenerator\TestsGeneratorLib\obj\Debug\netcoreapp3.1\TestsGeneratorLib.csproj.CoreCompileInputs.cache
+E:\5 sem\SPP4.1\TestsGenerator\TestsGeneratorLib\obj\Debug\netcoreapp3.1\TestsGeneratorLib.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestsGeneratorLib\obj\Debug\netcoreapp3.1\TestsGeneratorLib.pdb
+E:\5 sem\SPP4.1\TestsGenerator\TestsGeneratorLib\obj\Debug\netcoreapp3.1\TestsGeneratorLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\5 sem\SPP4.1\TestsGenerator\TestsGeneratorLib\bin\Debug\netcoreapp3.1\TestsGeneratorLib.deps.json
+E:\5 sem\SPP4.1\TestsGenerator\TestsGeneratorLib\bin\Debug\netcoreapp3.1\TestsGeneratorLib.dll
+E:\5 sem\SPP4.1\TestsGenerator\TestsGeneratorLib\bin\Debug\netcoreapp3.1\TestsGeneratorLib.pdb
+E:\5 sem\SPP4.1\TestsGenerator\TestsGeneratorLib\obj\Debug\netcoreapp3.1\TestsGeneratorLib.csprojAssemblyReference.cache
